@@ -15,7 +15,7 @@ function Product() {
 
     return (
         <>
-            <h1>Welcome to Product</h1>
+            <h1> Product</h1>
 
             <div className="productContainer">
                 

@@ -21,7 +21,7 @@ function ProductItem() {
     const { name, img } = shoe
     return (
         <div>
-            <h1>Welcome to Product Item</h1>
+            <h1>Product Item</h1>
             <div classname="link">
             
                 <h4>{name}</h4>
